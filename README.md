@@ -1,2 +1,2 @@
 # COMP2041
-19T2 Software Construction: Techniques and Tools
+UNSW 19T2 Software Construction: Techniques and Tools
